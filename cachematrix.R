@@ -1,4 +1,4 @@
-## This functions allow us to perform the inverse of a matrix object and caching its value,
+## These functions allow us to perform the inverse of a matrix object and caching its value,
 ## for further use, if necessary.
 
 ## This function creates a special "matrix" object that can cache its inverse. It consists of
